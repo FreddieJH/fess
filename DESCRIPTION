@@ -1,13 +1,13 @@
 Package: fess
-Title: What the Package Does (One Line, Title Case)
+Title: Fitting Empirical Size Spectra
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Freddie",
+           family = "Freddie",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "freddieheather@gmail.com",
+           comment = c(ORCID = "0000-0002-1650-2617"))
+Description: Makes fitting fitting empirical size spectra easier. Uses three different methods dependent on the type of data available and the desired outcomes. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
